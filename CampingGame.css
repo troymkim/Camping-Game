@@ -1,0 +1,25 @@
+body{
+    background-color:darkgreen;
+}
+
+.paragraph{
+    font-size: 40px;
+    font-weight: bold;
+    font-family:"Verdana",serif;
+}
+
+.links{
+    font-size: 30 px;
+    font-style: italic;
+    font-variant: small-caps;
+    font-family: "Verdana,"serif;
+    text-align: center;
+    color:chocolate;
+}
+a.lotion{
+    color: lightpink
+}
+
+a.signup{
+    color: deepskyblue
+}
