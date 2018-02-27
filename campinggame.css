@@ -1,0 +1,22 @@
+body{
+    background-image: url(pic.png);
+}
+.paragraph{
+    font-family: fantasy;
+    color:azure;
+    font-size: 25px;
+    text-align: center;
+}
+/* unvisited link */
+a:link {
+    color: skyblue;
+}
+/* visited link */
+a:visited {
+    color: white;
+}
+.links{
+   font-family: serif;
+    font-size: 20px;
+    text-align: center;
+}

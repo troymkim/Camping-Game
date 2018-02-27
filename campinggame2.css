@@ -1,0 +1,23 @@
+body{
+   background-image: url(gif.gif)
+}
+.paragraph{
+    font-family: monospace;
+    color:white;
+    font-size: 30px;
+    text-align: center;
+}
+/* unvisited link */
+a:link {
+    color: skyblue;
+}
+/* visited link */
+a:visited {
+    color: white;
+}
+.links{
+  font-weight: bolder;
+    font-variant: small-caps;
+    font-size: 70px;
+    text-align: center;
+}
