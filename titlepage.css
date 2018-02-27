@@ -1,0 +1,36 @@
+body{
+    background-image: url(http://i.imgur.com/eU48Ic3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.welcome{
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+.welcome span{
+    background-color: aquamarine;
+}
+
+.start{
+    text-align: center;
+    font-size: 25px;
+    line-height: 0px;
+}
+
+.start span{
+    background-color: crimson;
+}
+
+.start2{
+    text-align: center;
+    font-size: 25px;
+    line-height: inherit
+}
+
+.start2 span{
+    background-color: crimson;
+}
+
